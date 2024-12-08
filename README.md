@@ -1,2 +1,2 @@
-# e-buy-
+# e-buy
 E-Commerce Website
